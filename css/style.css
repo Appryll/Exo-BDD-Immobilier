@@ -1,0 +1,12 @@
+body{background-color: aliceblue;
+}
+.champs{
+    color: red;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#description{
+    border-color: gainsboro;
+    overflow:scroll;
+}
